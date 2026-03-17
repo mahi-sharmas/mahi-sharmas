@@ -64,7 +64,6 @@ I'm a **B.Tech CSE (Data Science)** student at **Manipal University Jaipur** (20
 | [**Online Payments Fraud Detection**](https://github.com/mahi-sharmas/Online-Payments-Fraud-Detection) | Classification model to detect fraudulent online payment transactions | `Python` `Scikit-Learn` `Matplotlib` |
 | [**Healthcare Analysis**](https://github.com/mahi-sharmas/healthcare_analysis) | Exploratory data analysis on healthcare data to uncover trends and insights | `Python` `Pandas` `Seaborn` |
 | [**Diabetes Prediction**](https://github.com/mahi-sharmas/Diabetes-Prediction) | Predictive model for early diabetes diagnosis using patient health indicators | `Python` `Scikit-Learn` `NumPy` |
-| [**Chatbot User Analysis**](https://github.com/mahi-sharmas/Chatbot-User-Analysis) | Power BI dashboard analyzing chatbot user behavior and engagement patterns | `Power BI` `Excel` `DAX` |
 
 ---
 
