@@ -63,6 +63,7 @@ I'm a **B.Tech CSE (Data Science)** student at **Manipal University Jaipur** (20
 | [**Spotify Song Popularity Prediction**](https://github.com/mahi-sharmas/Predicting-Spotify-Song-Popularity) | ML model predicting song popularity using audio features from the Spotify dataset | `Python` `Pandas` `Scikit-Learn` |
 | [**Online Payments Fraud Detection**](https://github.com/mahi-sharmas/Online-Payments-Fraud-Detection) | Classification model to detect fraudulent online payment transactions | `Python` `Scikit-Learn` `Matplotlib` |
 | [**Healthcare Analysis**](https://github.com/mahi-sharmas/healthcare_analysis) | Exploratory data analysis on healthcare data to uncover trends and insights | `Python` `Pandas` `Seaborn` |
+| [**Banking Transactions Analysis — SQL**](https://github.com/mahi-sharmas/banking-transactions-sql) | Rule-based fraud pattern detection using window functions, rolling averages, and anomaly flagging on 1.2M transactions | `SQL` `SQLite` `Window Functions` |
 | [**Diabetes Prediction**](https://github.com/mahi-sharmas/Diabetes-Prediction) | Predictive model for early diabetes diagnosis using patient health indicators | `Python` `Scikit-Learn` `NumPy` |
 
 ---
