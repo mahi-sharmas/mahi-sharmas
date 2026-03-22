@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mahi+Sharma;Data+Science+%7C+Analytics+%7C+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Hi+%F0%9F%91%8B+I'm+Mahi+Sharma;Data+Science+%7C+Analytics+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 <p>
   <a href="https://mahi-sharmas.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
