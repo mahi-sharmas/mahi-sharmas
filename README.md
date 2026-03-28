@@ -6,6 +6,7 @@
   <a href="https://mahi-sharmas.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:mahi.sh4rma7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/mahi-sharmas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahi-sharma-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://data-drift-monitoring-system-kevlvw3qgvp859ksrkv2yx.streamlit.app/"><img src="https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 </p>
 
@@ -34,6 +35,7 @@ I'm a **B.Tech CSE (Data Science)** student at **Manipal University Jaipur** (20
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Data Science & ML**
 
@@ -42,11 +44,14 @@ I'm a **B.Tech CSE (Data Science)** student at **Manipal University Jaipur** (20
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge)
+![ggplot2](https://img.shields.io/badge/ggplot2-FC8D62?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Tools & Platforms**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,11 +64,12 @@ I'm a **B.Tech CSE (Data Science)** student at **Manipal University Jaipur** (20
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Impulse Purchase Prediction**](https://github.com/mahi-sharmas/impulse-purchase-predictor) | Analyzed 250K e-commerce transactions to identify impulse buying patterns with 89.2% accuracy | `R` `ggplot2` `Plotly` |
+| [**Banking Transactions Analysis — SQL**](https://github.com/mahi-sharmas/banking-transactions-sql) | Rule-based fraud pattern detection using window functions, rolling averages, and anomaly flagging on 1.2M transactions | `SQL` `SQLite` `Window Functions` |
 | [**Data Drift Monitoring System**](https://github.com/mahi-sharmas/Data-Drift-Monitoring-System) | Real-time monitoring dashboard for detecting data drift in ML pipelines. [**Live Demo**](https://data-drift-monitoring-system-kevlvw3qgvp859ksrkv2yx.streamlit.app/) | `Python` `Streamlit` `Scikit-Learn` |
 | [**Spotify Song Popularity Prediction**](https://github.com/mahi-sharmas/Predicting-Spotify-Song-Popularity) | ML model predicting song popularity using audio features from the Spotify dataset | `Python` `Pandas` `Scikit-Learn` |
 | [**Online Payments Fraud Detection**](https://github.com/mahi-sharmas/Online-Payments-Fraud-Detection) | Classification model to detect fraudulent online payment transactions | `Python` `Scikit-Learn` `Matplotlib` |
 | [**Healthcare Analysis**](https://github.com/mahi-sharmas/healthcare_analysis) | Exploratory data analysis on healthcare data to uncover trends and insights | `Python` `Pandas` `Seaborn` |
-| [**Banking Transactions Analysis — SQL**](https://github.com/mahi-sharmas/banking-transactions-sql) | Rule-based fraud pattern detection using window functions, rolling averages, and anomaly flagging on 1.2M transactions | `SQL` `SQLite` `Window Functions` |
 | [**Diabetes Prediction**](https://github.com/mahi-sharmas/Diabetes-Prediction) | Predictive model for early diabetes diagnosis using patient health indicators | `Python` `Scikit-Learn` `NumPy` |
 
 ---
